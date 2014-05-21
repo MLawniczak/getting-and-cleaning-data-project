@@ -57,8 +57,9 @@ The tidy data set contains the following variables. These are included as column
 names in the first row of data.
 
 #####Notes:
-* prefix 't' denotes time domain signals
-* prefix 'f' denotes frequency domain signals
+	prefix 't' denotes time domain signals
+	prefix 'f' denotes frequency domain signals
+
 
 
 1. Subject (1-30) 

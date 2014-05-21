@@ -12,12 +12,12 @@
 * Run run_anaysis.R
 
 	1. The script merges the following files:
-	* subject_train.txt
-	* Y_train.txt
-	* X_train.txt
-	* subject_test.txt
-	* Y_test.txt
-	* X_test.txt
+		subject_train.txt
+		Y_train.txt
+		X_train.txt
+		subject_test.txt
+		Y_test.txt
+		X_test.txt
 
 	2. Then it eliminates unnecessary columns keeping only the 
 	   Mean() and std() columns
